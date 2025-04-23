@@ -1,0 +1,108 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "DeepSeek en Acción: Creando el juego del Pong en Python con IA",
+      "description": "440 vistas",
+      "url": "https://www.youtube.com/embed/MhQ-6jbtJ8A",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "Inteligencia Artificial"
+    },
+    {
+      "id": 2,
+      "title": "Masterclass: Descubre el Potencial del Front-End utilizando React con TypeScript",
+      "description": "4.8 mil vistas",
+      "url": "https://www.youtube.com/embed/mbBCxWdMgKE",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "Front-end"
+    },
+    {
+      "id": 3,
+      "title": "Programación Funcional vs Programación Orientada a Objetos",
+      "description": "531 vistas",
+      "url": "https://www.youtube.com/embed/QhWcx3qmlwM",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "Programación"
+    },
+    {
+      "id": 4,
+      "title": "Dudas de Principiantes en Data Science",
+      "description": "1.1 mil vistas",
+      "url": "https://www.youtube.com/embed/3U-6FRArdz8",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "Ciencia de Datos"
+    },
+    {
+      "id": 5,
+      "title": "Café Punto Tech #31 – Excel para Negocios",
+      "description": "360 vistas",
+      "url": "https://www.youtube.com/embed/NpcTrN-WGyU",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "Podcasts"
+    },
+    {
+      "id": 6,
+      "title": "Cómo Empezar en el Desarrollo Móvil: Carrera como Desarrollador de Aplicaciones",
+      "description": "521 mil vistas",
+      "url": "https://www.youtube.com/embed/sutTgSkD0hI",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "Mobile"
+    },
+    {
+      "id": 7,
+      "title": "Conociendo los roles en Data Science",
+      "description": "867 vistas",
+      "url": "https://www.youtube.com/embed/Nl-ArrGibqk",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "Ciencia de Datos"
+    },
+    {
+      "id": 8,
+      "title": "Qué Significa Pensar Como Programador",
+      "description": "40 mil vistas",
+      "url": "https://www.youtube.com/embed/ov7vA5HFe6w",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "Programación"
+    },
+    {
+      "id": 9,
+      "title": "Masterclass: Descubre el potencial del Power BI para la Inteligencia Empresarial",
+      "description": "4.5 mil vistas",
+      "url": "https://www.youtube.com/embed/0S333r9f4XE",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "En Vivo"
+    },
+    {
+      "id": 10,
+      "title": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti!",
+      "description": "3.6 mil vistas",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "Debates"
+    },
+    {
+      "id": 11,
+      "title": "Conociendo la API de Open AI",
+      "description": "2.6 mil vistas",
+      "url": "https://www.youtube.com/embed/tDG29s1IVx8",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "Innovación"
+    },
+    {
+      "id": 12,
+      "title": "¿Por qué utilizar React con Typescript?",
+      "description": "415 vistas",
+      "url": "https://www.youtube.com/embed/RLZ7-ZfkwOE",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "Front-end"
+    },
+    {
+      "id": 13,
+      "title": "Conoce a Luri: Nuestra Inteligencia Artificial impulsada por ChatGPT",
+      "description": "820 vistas",
+      "url": "https://www.youtube.com/embed/cfvFBAB9TIE",
+      "image": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "category": "Inteligencia Artificial"
+    }
+  ]
+}
