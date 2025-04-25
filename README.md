@@ -45,4 +45,4 @@ Luego, abre `index.html` en el navegador y ¡VidFlow estará listo para usarse!
 
 ## 📚 Más información sobre el curso
 
-Este repositorio avanza hasta la implementación de ESLint y Prettier, pero aún no incluye el uso de Vite con Axios. Para utilizar Vite, fue necesario migrar el código a un nuevo proyecto, que puedes encontrar en [este repositorio](https://github.com/alura-cursos/2161-nodejs-vidflow-vite).
+Este repositorio avanza hasta la implementación de ESLint y Prettier, pero aún no incluye el uso de Vite con Axios. Para utilizar Vite, fue necesario migrar el código a un nuevo proyecto, que puedes encontrar en [este repositorio](https://github.com/alura-es-cursos/2161-node.js-y-terminal-desarrollo-frontend-vidflow-vite/).
